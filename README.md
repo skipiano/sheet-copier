@@ -12,7 +12,7 @@ Copy two google sheets from each other
 
 3. Install the required dependency by running the following command on terminal:
 ```bash
-$ pip install pynput
+pip install pynput
 ```
 
 4. Download the zip file of this repository: `Code > Download ZIP`
